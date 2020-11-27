@@ -1740,8 +1740,6 @@
         }
       },
       "meta": {
-        "application-name": "JIRA",
-        "data-version": ([\\d.]+)\\;version:\\1\\;confidence:0
       },
       "website": "http://www.atlassian.com/software/jira/overview/"
     },
